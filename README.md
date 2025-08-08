@@ -1,6 +1,4 @@
 # 👋 Welcome!  
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/HunDeveloper16/hunDeveloper16&count_bg=%2376FB11&title_bg=%23198BD7&icon=github.svg&icon_color=%23000000&title=Visitors&edge_flat=true)](https://hits.seeyoufarm.com)
-
 ---
 
 ## 👨‍💻 About Me
@@ -35,6 +33,7 @@
 ## 📈 GitHub Stats
 
 ![HunDeveloper16's GitHub stats](https://github-readme-stats.vercel.app/api?username=HunDeveloper16&show_icons=true&theme=github_dark)
+
 
 
 

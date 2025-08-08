@@ -28,13 +28,14 @@
 ## 📫 Get in Touch
 
 [![Tech Blog Badge](https://img.shields.io/badge/Blog-Tistory-000000?style=flat-square&logo=tistory&logoColor=white)](https://lsh2016.tistory.com/)
-[![Email Badge](https://img.shields.io/badge/Email-lsh@example.com-blue?style=flat-square&logo=gmail&logoColor=white)](mailto:lsh931673@gmail.com)
+[![Email Badge](https://img.shields.io/badge/Email-lsh931673@gmail.com-blue?style=flat-square&logo=gmail&logoColor=white)](mailto:lsh931673@gmail.com)
 
 ---
 
 ## 📈 GitHub Stats
 
 ![HunDeveloper16's GitHub stats](https://github-readme-stats.vercel.app/api?username=HunDeveloper16&show_icons=true&theme=github_dark)
+
 
 
 
